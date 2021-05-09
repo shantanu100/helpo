@@ -8,9 +8,9 @@ One platform get and contribute help
  Vision is to build a platform which allows people to find and share the help in easier way.
  
 ## Target Users
-1. People who want to share something for good. We call them doners or contributers
+1. People who want to share something for good. We call them donors or contributers
 2. People who are looking for help. We can call them seekers.
-3. Volenteers.
+3. Volunteers.
 
 
 ## Challenges
